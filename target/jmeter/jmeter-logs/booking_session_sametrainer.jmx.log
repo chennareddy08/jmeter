@@ -1,0 +1,73 @@
+2016/06/06 04:43:02 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: Loading user properties from: /Users/chennareddy/.jenkins/workspace/Performance_Testing_Jmeter/target/jmeter/bin/user.properties 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: Loading system properties from: /Users/chennareddy/.jenkins/workspace/Performance_Testing_Jmeter/target/jmeter/bin/system.properties 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: Version 2.6 r1237317 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: java.version=1.8.0_71 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: os.arch=x86_64 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: os.version=10.11.5 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: JMeterHome=/Users/chennareddy/.jenkins/workspace/Performance_Testing_Jmeter/target/jmeter 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: user.dir  =/Users/chennareddy/.jenkins/workspace/Performance_Testing_Jmeter/target/jmeter/bin 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: PWD       =/Users/chennareddy/.jenkins/workspace/Performance_Testing_Jmeter/target/jmeter/bin 
+2016/06/06 04:43:02 INFO  - jmeter.JMeter: IP: 192.168.2.1 Name: mche.local FullName: 192.168.2.1 
+2016/06/06 04:43:02 ERROR - jmeter.JMeter: Error in NonGUIDriver java.lang.IllegalStateException: Files are still open, cannot change base directory
+	at org.apache.jmeter.services.FileServer.checkForOpenFiles(FileServer.java:169)
+	at org.apache.jmeter.services.FileServer.setBase(FileServer.java:156)
+	at org.apache.jmeter.services.FileServer.setBaseForScript(FileServer.java:142)
+	at org.apache.jmeter.JMeter.runNonGui(JMeter.java:728)
+	at org.apache.jmeter.JMeter.startNonGui(JMeter.java:716)
+	at org.apache.jmeter.JMeter.start(JMeter.java:377)
+	at com.lazerycode.jmeter.testrunner.TestManager.executeSingleTest(TestManager.java:181)
+	at com.lazerycode.jmeter.testrunner.TestManager.executeTests(TestManager.java:102)
+	at com.lazerycode.jmeter.JMeterMojo.execute(JMeterMojo.java:222)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:134)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:207)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:153)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:145)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:116)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:80)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:51)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:307)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)
+	at org.jvnet.hudson.maven3.launcher.Maven32Launcher.main(Maven32Launcher.java:132)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchStandard(Launcher.java:330)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:238)
+	at jenkins.maven3.agent.Maven32Main.launch(Maven32Main.java:186)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at hudson.maven.Maven3Builder.call(Maven3Builder.java:136)
+	at hudson.maven.Maven3Builder.call(Maven3Builder.java:71)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:152)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:50)
+	at hudson.remoting.Request$2.run(Request.java:332)
+	at hudson.remoting.InterceptingExecutorService$1.call(InterceptingExecutorService.java:68)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2016/06/06 04:43:09 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-112 
+2016/06/06 04:43:09 INFO  - jmeter.util.BeanShellTestElement:  
+2016/06/06 04:43:09 INFO  - jmeter.util.BeanShellTestElement: Pesrfoxsrs3111@gmail.com 
+2016/06/06 04:44:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 504 for URL: https://handstandapp.com/ 
+2016/06/06 04:44:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 504 for URL: https://handstandapp.com/ 
+2016/06/06 04:44:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 504, Server sent no Errorpage 
+2016/06/06 04:44:09 INFO  - jmeter.threads.JMeterThread: Stop Test detected by thread: Thread Group 1-112 
+2016/06/06 04:44:09 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-112 
+2016/06/06 04:44:09 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Thread Group 1-112 
+2016/06/06 04:44:09 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/06/06 04:44:09 INFO  - jmeter.services.FileServer: Close: /Users/chennareddy/jmeter_scripts/trainer.csv@shareMode.all 
+2016/06/06 04:44:09 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended on host null 

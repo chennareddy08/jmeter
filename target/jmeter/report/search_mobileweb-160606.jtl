@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="48384" lt="48384" ts="1465213534573" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-62" dt="" by="75"/>
+<httpSample t="27836" lt="22391" ts="1465213559324" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-268" dt="" by="294">
+  <httpSample t="22391" lt="22391" ts="1465213559324" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="5445" lt="5445" ts="1465213581715" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-268" dt="" by="294"/>
+</httpSample>
+<httpSample t="59828" lt="59828" ts="1465213529890" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-23" dt="" by="75"/>
+<httpSample t="60312" lt="60312" ts="1465213529406" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-19" dt="" by="75"/>
+<httpSample t="59956" lt="59956" ts="1465213529771" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-22" dt="" by="75"/>
+<httpSample t="59721" lt="59721" ts="1465213530007" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-24" dt="" by="75"/>
+<httpSample t="60080" lt="60080" ts="1465213529647" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-21" dt="" by="75"/>
+<httpSample t="59599" lt="59599" ts="1465213530128" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-25" dt="" by="75"/>
+<httpSample t="60200" lt="60200" ts="1465213529528" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-20" dt="" by="75"/>
+<httpSample t="59992" lt="59992" ts="1465213530727" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-30" dt="" by="75"/>
+<httpSample t="59628" lt="59628" ts="1465213531091" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-33" dt="" by="75"/>
+<httpSample t="60108" lt="60108" ts="1465213530611" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-29" dt="" by="75"/>
+<httpSample t="59749" lt="59749" ts="1465213530971" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-32" dt="" by="75"/>
+<httpSample t="60356" lt="60356" ts="1465213530367" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-27" dt="" by="75"/>
+<httpSample t="60235" lt="60235" ts="1465213530489" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-28" dt="" by="75"/>
+<httpSample t="60473" lt="60473" ts="1465213530251" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-26" dt="" by="75"/>
+<httpSample t="59879" lt="59879" ts="1465213530849" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-31" dt="" by="75"/>
+<httpSample t="59671" lt="59671" ts="1465213532050" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-41" dt="" by="75"/>
+<httpSample t="60390" lt="60390" ts="1465213531331" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-35" dt="" by="75"/>
+<httpSample t="59550" lt="59550" ts="1465213532172" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-42" dt="" by="75"/>
+<httpSample t="60152" lt="60152" ts="1465213531571" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-37" dt="" by="75"/>
+<httpSample t="60511" lt="60511" ts="1465213531213" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-34" dt="" by="75"/>
+<httpSample t="60273" lt="60273" ts="1465213531453" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-36" dt="" by="75"/>
+<httpSample t="60035" lt="60035" ts="1465213531691" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-38" dt="" by="75"/>
+<httpSample t="59918" lt="59918" ts="1465213531809" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-39" dt="" by="75"/>
+<httpSample t="59794" lt="59794" ts="1465213531933" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-40" dt="" by="75"/>
+<httpSample t="60427" lt="60427" ts="1465213532291" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-43" dt="" by="75"/>
+<httpSample t="59948" lt="59948" ts="1465213532773" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-47" dt="" by="75"/>
+<httpSample t="59833" lt="59833" ts="1465213532889" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-48" dt="" by="75"/>
+<httpSample t="59592" lt="59592" ts="1465213533130" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-50" dt="" by="75"/>
+<httpSample t="59709" lt="59709" ts="1465213533014" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-49" dt="" by="75"/>
+<httpSample t="60069" lt="60069" ts="1465213532654" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-46" dt="" by="75"/>
+<httpSample t="60315" lt="60315" ts="1465213532411" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-44" dt="" by="75"/>
+<httpSample t="60197" lt="60197" ts="1465213532530" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-45" dt="" by="75"/>
+<httpSample t="59508" lt="59508" ts="1465213534210" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-59" dt="" by="75"/>
+<httpSample t="59625" lt="59625" ts="1465213534094" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-58" dt="" by="75"/>
+<httpSample t="60471" lt="60471" ts="1465213533253" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-51" dt="" by="75"/>
+<httpSample t="60233" lt="60233" ts="1465213533491" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-53" dt="" by="75"/>
+<httpSample t="59991" lt="59991" ts="1465213533734" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-55" dt="" by="75"/>
+<httpSample t="60109" lt="60109" ts="1465213533616" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-54" dt="" by="75"/>
+<httpSample t="59754" lt="59754" ts="1465213533972" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-57" dt="" by="75"/>
+<httpSample t="60353" lt="60353" ts="1465213533374" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-52" dt="" by="75"/>
+<httpSample t="59876" lt="59876" ts="1465213533852" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-56" dt="" by="75"/>
+<httpSample t="60264" lt="60264" ts="1465213534456" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-61" dt="" by="75"/>
+<httpSample t="60025" lt="60025" ts="1465213534697" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-63" dt="" by="75"/>
+<httpSample t="60392" lt="60392" ts="1465213534332" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-60" dt="" by="75"/>
+<httpSample t="60785" lt="60785" ts="1465213534932" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-65" dt="" by="70"/>
+<httpSample t="60662" lt="60662" ts="1465213535058" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-66" dt="" by="70"/>
+<httpSample t="60548" lt="60548" ts="1465213535174" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-67" dt="" by="70"/>
+<httpSample t="60909" lt="60909" ts="1465213534816" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-64" dt="" by="70"/>
+<httpSample t="61065" lt="61065" ts="1465213535656" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-71" dt="" by="70"/>
+<httpSample t="60589" lt="60589" ts="1465213536133" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-75" dt="" by="70"/>
+<httpSample t="60709" lt="60709" ts="1465213536014" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-74" dt="" by="70"/>
+<httpSample t="60826" lt="60826" ts="1465213535897" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-73" dt="" by="70"/>
+<httpSample t="60948" lt="60948" ts="1465213535777" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-72" dt="" by="70"/>
+<httpSample t="61191" lt="61191" ts="1465213535534" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-70" dt="" by="70"/>
+<httpSample t="61311" lt="61310" ts="1465213535418" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-69" dt="" by="70"/>
+<httpSample t="61434" lt="61434" ts="1465213535296" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-68" dt="" by="70"/>
+<httpSample t="60983" lt="60983" ts="1465213536736" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-80" dt="" by="70"/>
+<httpSample t="61342" lt="61342" ts="1465213536379" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-77" dt="" by="70"/>
+<httpSample t="61102" lt="61102" ts="1465213536619" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-79" dt="" by="70"/>
+<httpSample t="60870" lt="60870" ts="1465213536857" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-81" dt="" by="70"/>
+<httpSample t="60751" lt="60751" ts="1465213536976" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-82" dt="" by="70"/>
+<httpSample t="61231" lt="61231" ts="1465213536497" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-78" dt="" by="70"/>
+<httpSample t="61473" lt="61473" ts="1465213536256" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-76" dt="" by="70"/>
+<httpSample t="60630" lt="60630" ts="1465213537099" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-83" dt="" by="70"/>
+<httpSample t="61022" lt="61022" ts="1465213537695" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-88" dt="" by="70"/>
+<httpSample t="60661" lt="60661" ts="1465213538057" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-91" dt="" by="70"/>
+<httpSample t="61260" lt="61260" ts="1465213537460" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-86" dt="" by="70"/>
+<httpSample t="60903" lt="60903" ts="1465213537818" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-89" dt="" by="70"/>
+<httpSample t="60785" lt="60785" ts="1465213537937" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-90" dt="" by="70"/>
+<httpSample t="61505" lt="61505" ts="1465213537217" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-84" dt="" by="70"/>
+<httpSample t="61146" lt="61146" ts="1465213537577" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-87" dt="" by="70"/>
+<httpSample t="61386" lt="61386" ts="1465213537339" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-85" dt="" by="70"/>
+<httpSample t="60553" lt="60553" ts="1465213538176" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-92" dt="" by="70"/>
+<httpSample t="60582" lt="60582" ts="1465213539139" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-100" dt="" by="70"/>
+<httpSample t="61424" lt="61424" ts="1465213538297" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-93" dt="" by="70"/>
+<httpSample t="60943" lt="60943" ts="1465213538779" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-97" dt="" by="70"/>
+<httpSample t="60822" lt="60822" ts="1465213538901" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-98" dt="" by="70"/>
+<httpSample t="61308" lt="61308" ts="1465213538415" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-94" dt="" by="70"/>
+<httpSample t="60707" lt="60707" ts="1465213539017" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-99" dt="" by="70"/>
+<httpSample t="61068" lt="61068" ts="1465213538657" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-96" dt="" by="70"/>
+<httpSample t="61185" lt="61185" ts="1465213538541" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-95" dt="" by="70"/>
+<httpSample t="61458" lt="61458" ts="1465213539260" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-101" dt="" by="70"/>
+<httpSample t="60741" lt="60741" ts="1465213539980" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-107" dt="" by="70"/>
+<httpSample t="61100" lt="61100" ts="1465213539621" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-104" dt="" by="70"/>
+<httpSample t="61345" lt="61345" ts="1465213539378" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-102" dt="" by="70"/>
+<httpSample t="60868" lt="60868" ts="1465213539856" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-106" dt="" by="70"/>
+<httpSample t="60986" lt="60986" ts="1465213539739" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-105" dt="" by="70"/>
+<httpSample t="60628" lt="60628" ts="1465213540098" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-108" dt="" by="70"/>
+<httpSample t="61229" lt="61229" ts="1465213539498" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-103" dt="" by="70"/>
+<httpSample t="60896" lt="60896" ts="1465213540822" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-114" dt="" by="70"/>
+<httpSample t="61504" lt="61504" ts="1465213540221" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-109" dt="" by="70"/>
+<httpSample t="60786" lt="60786" ts="1465213540939" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-115" dt="" by="70"/>
+<httpSample t="61384" lt="61384" ts="1465213540341" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-110" dt="" by="70"/>
+<httpSample t="60544" lt="60544" ts="1465213541182" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-117" dt="" by="70"/>
+<httpSample t="61267" lt="61267" ts="1465213540458" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-111" dt="" by="70"/>
+<httpSample t="61148" lt="61148" ts="1465213540579" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-112" dt="" by="70"/>
+<httpSample t="60668" lt="60668" ts="1465213541060" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-116" dt="" by="70"/>
+<httpSample t="61177" lt="61177" ts="1465213541540" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-120" dt="" by="70"/>
+<httpSample t="61297" lt="61297" ts="1465213541423" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-119" dt="" by="70"/>
+<httpSample t="60582" lt="60582" ts="1465213542140" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-125" dt="" by="70"/>
+<httpSample t="60815" lt="60815" ts="1465213541906" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-123" dt="" by="70"/>
+<httpSample t="62020" lt="62020" ts="1465213540702" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-113" dt="" by="70"/>
+<httpSample t="60941" lt="60941" ts="1465213541783" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-122" dt="" by="70"/>
+<httpSample t="61420" lt="61420" ts="1465213541304" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-118" dt="" by="70"/>
+<httpSample t="61063" lt="61063" ts="1465213541664" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-121" dt="" by="70"/>
+<httpSample t="60703" lt="60703" ts="1465213542024" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-124" dt="" by="70"/>
+<httpSample t="60855" lt="60855" ts="1465213542863" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-131" dt="" by="70"/>
+<httpSample t="61343" lt="61343" ts="1465213542383" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-127" dt="" by="70"/>
+<httpSample t="60983" lt="60983" ts="1465213542743" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-130" dt="" by="70"/>
+<httpSample t="61226" lt="61226" ts="1465213542501" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-128" dt="" by="70"/>
+<httpSample t="61462" lt="61462" ts="1465213542265" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-126" dt="" by="70"/>
+<httpSample t="60740" lt="60740" ts="1465213542986" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-132" dt="" by="70"/>
+<httpSample t="61105" lt="61105" ts="1465213542623" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-129" dt="" by="70"/>
+<httpSample t="60624" lt="60624" ts="1465213543105" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-133" dt="" by="70"/>
+<httpSample t="61255" lt="61255" ts="1465213543463" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-136" dt="" by="70"/>
+<httpSample t="60774" lt="60774" ts="1465213543945" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-140" dt="" by="70"/>
+<httpSample t="61498" lt="61498" ts="1465213543222" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-134" dt="" by="70"/>
+<httpSample t="61138" lt="61138" ts="1465213543582" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-137" dt="" by="70"/>
+<httpSample t="61014" lt="61014" ts="1465213543707" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-138" dt="" by="70"/>
+<httpSample t="60899" lt="60899" ts="1465213543823" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-139" dt="" by="70"/>
+<httpSample t="60655" lt="60655" ts="1465213544067" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-141" dt="" by="70"/>
+<httpSample t="61382" lt="61382" ts="1465213543342" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-135" dt="" by="70"/>
+<httpSample t="60547" lt="60547" ts="1465213544183" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-142" dt="" by="70"/>
+<httpSample t="60691" lt="60691" ts="1465213545025" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-149" dt="" by="70"/>
+<httpSample t="61055" lt="61055" ts="1465213544664" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-146" dt="" by="70"/>
+<httpSample t="60932" lt="60932" ts="1465213544787" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-147" dt="" by="70"/>
+<httpSample t="61185" lt="61185" ts="1465213544544" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-145" dt="" by="70"/>
+<httpSample t="60582" lt="60582" ts="1465213545147" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-150" dt="" by="70"/>
+<httpSample t="61302" lt="61302" ts="1465213544427" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-144" dt="" by="70"/>
+<httpSample t="60824" lt="60824" ts="1465213544906" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-148" dt="" by="70"/>
+<httpSample t="61425" lt="61425" ts="1465213544305" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-143" dt="" by="70"/>
+<httpSample t="60968" lt="60968" ts="1465213545748" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-155" dt="" by="70"/>
+<httpSample t="60611" lt="60611" ts="1465213546105" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-158" dt="" by="70"/>
+<httpSample t="61332" lt="61332" ts="1465213545385" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-152" dt="" by="70"/>
+<httpSample t="61093" lt="61093" ts="1465213545625" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-154" dt="" by="70"/>
+<httpSample t="60730" lt="60730" ts="1465213545988" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-157" dt="" by="70"/>
+<httpSample t="61454" lt="61454" ts="1465213545267" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-151" dt="" by="70"/>
+<httpSample t="60858" lt="60858" ts="1465213545865" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-156" dt="" by="70"/>
+<httpSample t="61219" lt="61219" ts="1465213545506" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-153" dt="" by="70"/>
+<httpSample t="60772" lt="60772" ts="1465213546945" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-165" dt="" by="70"/>
+<httpSample t="61014" lt="61014" ts="1465213546705" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-163" dt="" by="70"/>
+<httpSample t="61133" lt="61133" ts="1465213546588" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-162" dt="" by="70"/>
+<httpSample t="61258" lt="61258" ts="1465213546463" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-161" dt="" by="70"/>
+<httpSample t="61497" lt="61497" ts="1465213546225" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-159" dt="" by="70"/>
+<httpSample t="60533" lt="60533" ts="1465213547189" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-167" dt="" by="70"/>
+<httpSample t="60895" lt="60895" ts="1465213546829" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-164" dt="" by="70"/>
+<httpSample t="60658" lt="60658" ts="1465213547069" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-166" dt="" by="70"/>
+<httpSample t="61383" lt="61383" ts="1465213546344" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-160" dt="" by="70"/>
+<httpSample t="61050" lt="61050" ts="1465213547668" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-171" dt="" by="70"/>
+<httpSample t="61291" lt="61291" ts="1465213547427" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-169" dt="" by="70"/>
+<httpSample t="61414" lt="61414" ts="1465213547305" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-168" dt="" by="70"/>
+<httpSample t="60691" lt="60691" ts="1465213548030" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-174" dt="" by="70"/>
+<httpSample t="61172" lt="61172" ts="1465213547549" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-170" dt="" by="70"/>
+<httpSample t="60572" lt="60572" ts="1465213548150" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-175" dt="" by="70"/>
+<httpSample t="60937" lt="60937" ts="1465213547788" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-172" dt="" by="70"/>
+<httpSample t="60816" lt="60816" ts="1465213547909" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-173" dt="" by="70"/>
+<httpSample t="61449" lt="61449" ts="1465213548269" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-176" dt="" by="70"/>
+<httpSample t="61331" lt="61331" ts="1465213548388" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-177" dt="" by="70"/>
+<httpSample t="60851" lt="60851" ts="1465213548871" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-181" dt="" by="70"/>
+<httpSample t="61093" lt="61093" ts="1465213548629" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-179" dt="" by="70"/>
+<httpSample t="61210" lt="61210" ts="1465213548512" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-178" dt="" by="70"/>
+<httpSample t="60736" lt="60736" ts="1465213548989" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-182" dt="" by="70"/>
+<httpSample t="60617" lt="60617" ts="1465213549108" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-183" dt="" by="70"/>
+<httpSample t="60977" lt="60977" ts="1465213548748" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-180" dt="" by="70"/>
+<httpSample t="61366" lt="61366" ts="1465213549349" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-185" dt="" by="70"/>
+<httpSample t="61483" lt="61483" ts="1465213549232" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-184" dt="" by="70"/>
+<httpSample t="61244" lt="61244" ts="1465213549471" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-186" dt="" by="70"/>
+<httpSample t="61128" lt="61128" ts="1465213549592" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-187" dt="" by="70"/>
+<httpSample t="55441" lt="26048" ts="1465213555719" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-238" dt="text" by="48289">
+  <httpSample t="26048" lt="26048" ts="1465213555719" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29375" lt="28631" ts="1465213581785" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-238" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="50749" lt="21213" ts="1465213560522" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-278" dt="text" by="48289">
+  <httpSample t="21213" lt="21213" ts="1465213560522" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29536" lt="28780" ts="1465213581735" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-278" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="42101" lt="12663" ts="1465213569173" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-350" dt="text" by="48289">
+  <httpSample t="12663" lt="12663" ts="1465213569173" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29438" lt="28679" ts="1465213581836" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-350" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="57852" lt="28249" ts="1465213553555" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-220" dt="text" by="48289">
+  <httpSample t="28249" lt="28249" ts="1465213553555" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29603" lt="28836" ts="1465213581804" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-220" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="61344" lt="31594" ts="1465213550072" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-191" dt="text" by="48289">
+  <httpSample t="31594" lt="31594" ts="1465213550072" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29750" lt="28975" ts="1465213581666" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-191" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="44402" lt="14645" ts="1465213567130" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-333" dt="text" by="48289">
+  <httpSample t="14645" lt="14645" ts="1465213567130" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29758" lt="28985" ts="1465213581774" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-333" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="58767" lt="28977" ts="1465213552833" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-214" dt="text" by="48289">
+  <httpSample t="28977" lt="28977" ts="1465213552833" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29789" lt="29033" ts="1465213581811" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-214" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="40538" lt="10757" ts="1465213571096" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-366" dt="text" by="48289">
+  <httpSample t="10757" lt="10757" ts="1465213571096" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29780" lt="29274" ts="1465213581854" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-366" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="56880" lt="27007" ts="1465213554759" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-230" dt="text" by="48289">
+  <httpSample t="27007" lt="27007" ts="1465213554759" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29857" lt="29091" ts="1465213581782" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-230" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="42174" lt="12295" ts="1465213569534" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-353" dt="text" by="48289">
+  <httpSample t="12295" lt="12295" ts="1465213569534" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29874" lt="29115" ts="1465213581834" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-353" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="58289" lt="28366" ts="1465213553435" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-219" dt="text" by="48289">
+  <httpSample t="28366" lt="28366" ts="1465213553435" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29923" lt="29154" ts="1465213581801" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-219" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="61348" lt="31380" ts="1465213550430" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-194" dt="text" by="48289">
+  <httpSample t="31380" lt="31380" ts="1465213550430" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="29967" lt="29180" ts="1465213581811" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-194" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="59447" lt="28846" ts="1465213552956" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-215" dt="text" by="48289">
+  <httpSample t="28846" lt="28846" ts="1465213552956" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="30601" lt="29824" ts="1465213581802" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-215" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="61884" lt="27137" ts="1465213554637" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-229" dt="" by="294">
+  <httpSample t="27137" lt="27137" ts="1465213554637" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="34746" lt="34746" ts="1465213581775" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-229" dt="" by="294"/>
+</httpSample>
+<httpSample t="66333" lt="26741" ts="1465213554997" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-232" dt="" by="294">
+  <httpSample t="26741" lt="26741" ts="1465213554997" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="39592" lt="39592" ts="1465213581738" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-232" dt="" by="294"/>
+</httpSample>
+<httpSample t="60713" lt="60713" ts="1465213561006" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-282" dt="" by="70"/>
+<httpSample t="60599" lt="60599" ts="1465213561123" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-283" dt="" by="70"/>
+<httpSample t="61113" lt="61113" ts="1465213561606" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-287" dt="" by="70"/>
+<httpSample t="60633" lt="60633" ts="1465213562086" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-291" dt="" by="70"/>
+<httpSample t="61477" lt="61477" ts="1465213561245" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-284" dt="" by="70"/>
+<httpSample t="60996" lt="60996" ts="1465213561726" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-288" dt="" by="70"/>
+<httpSample t="61359" lt="61359" ts="1465213561366" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-285" dt="" by="70"/>
+<httpSample t="60762" lt="60762" ts="1465213561963" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-290" dt="" by="70"/>
+<httpSample t="61244" lt="61244" ts="1465213561482" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-286" dt="" by="70"/>
+<httpSample t="55375" lt="13930" ts="1465213567849" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-339" dt="" by="294">
+  <httpSample t="13930" lt="13930" ts="1465213567849" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="41446" lt="41446" ts="1465213581778" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-339" dt="" by="294"/>
+</httpSample>
+<httpSample t="61270" lt="61270" ts="1465213562446" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-294" dt="" by="70"/>
+<httpSample t="60910" lt="60910" ts="1465213562806" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-297" dt="" by="70"/>
+<httpSample t="61397" lt="61397" ts="1465213562323" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-293" dt="" by="70"/>
+<httpSample t="60799" lt="60799" ts="1465213562926" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-298" dt="" by="70"/>
+<httpSample t="61427" lt="61427" ts="1465213563289" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-301" dt="" by="70"/>
+<httpSample t="60588" lt="60588" ts="1465213564129" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-308" dt="" by="70"/>
+<httpSample t="61320" lt="61320" ts="1465213563405" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-302" dt="" by="70"/>
+<httpSample t="60957" lt="60957" ts="1465213563769" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-305" dt="" by="70"/>
+<httpSample t="61232" lt="61232" ts="1465213564489" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-311" dt="" by="70"/>
+<httpSample t="61114" lt="61114" ts="1465213564608" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-312" dt="" by="70"/>
+<httpSample t="60757" lt="60757" ts="1465213564966" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-315" dt="" by="70"/>
+<httpSample t="60875" lt="60875" ts="1465213564849" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-314" dt="" by="70"/>
+<httpSample t="61480" lt="61480" ts="1465213564246" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-309" dt="" by="70"/>
+<httpSample t="61390" lt="61390" ts="1465213565327" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-318" dt="" by="70"/>
+<httpSample t="61272" lt="61272" ts="1465213565446" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-319" dt="" by="70"/>
+<httpSample t="82680" lt="21690" ts="1465213560045" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-274" dt="" by="294">
+  <httpSample t="21690" lt="21690" ts="1465213560045" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="60991" lt="60991" ts="1465213581734" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-274" dt="" by="294"/>
+</httpSample>
+<httpSample t="59979" lt="59979" ts="1465213582746" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-462" dt="" by="75"/>
+<httpSample t="60092" lt="60092" ts="1465213582634" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-461" dt="" by="75"/>
+<httpSample t="85446" lt="24443" ts="1465213557280" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-251" dt="" by="294">
+  <httpSample t="24443" lt="24443" ts="1465213557280" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61004" lt="61004" ts="1465213581722" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-251" dt="" by="294"/>
+</httpSample>
+<httpSample t="114278" lt="53189" ts="1465213528448" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-11" dt="" by="294">
+  <httpSample t="53189" lt="53189" ts="1465213528448" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61042" lt="61042" ts="1465213581684" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-11" dt="" by="294"/>
+</httpSample>
+<httpSample t="81965" lt="20981" ts="1465213560762" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-280" dt="" by="294">
+  <httpSample t="20981" lt="20981" ts="1465213560762" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="60985" lt="60985" ts="1465213581742" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-280" dt="" by="294"/>
+</httpSample>
+<httpSample t="79560" lt="18578" ts="1465213563168" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-300" dt="" by="294">
+  <httpSample t="18578" lt="18578" ts="1465213563168" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="60983" lt="60983" ts="1465213581745" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-300" dt="" by="294"/>
+</httpSample>
+<httpSample t="84729" lt="23720" ts="1465213557999" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-257" dt="" by="294">
+  <httpSample t="23720" lt="23720" ts="1465213557999" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61010" lt="61010" ts="1465213581718" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-257" dt="" by="294"/>
+</httpSample>
+<httpSample t="92898" lt="31822" ts="1465213549830" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-189" dt="" by="294">
+  <httpSample t="31822" lt="31822" ts="1465213549830" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61060" lt="61060" ts="1465213581668" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-189" dt="" by="294"/>
+</httpSample>
+<httpSample t="80524" lt="19540" ts="1465213562203" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-292" dt="" by="294">
+  <httpSample t="19540" lt="19540" ts="1465213562203" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="60985" lt="60985" ts="1465213581742" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-292" dt="" by="294"/>
+</httpSample>
+<httpSample t="84847" lt="23826" ts="1465213557883" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-256" dt="" by="294">
+  <httpSample t="23826" lt="23826" ts="1465213557883" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61022" lt="61022" ts="1465213581708" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-256" dt="" by="294"/>
+</httpSample>
+<httpSample t="82567" lt="21565" ts="1465213560163" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-275" dt="" by="294">
+  <httpSample t="21565" lt="21565" ts="1465213560163" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61003" lt="61003" ts="1465213581727" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-275" dt="" by="294"/>
+</httpSample>
+<httpSample t="80889" lt="19899" ts="1465213561842" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-289" dt="" by="294">
+  <httpSample t="19899" lt="19899" ts="1465213561842" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="60991" lt="60991" ts="1465213581740" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-289" dt="" by="294"/>
+</httpSample>
+<httpSample t="85333" lt="24313" ts="1465213557398" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-252" dt="" by="294">
+  <httpSample t="24313" lt="24313" ts="1465213557398" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61021" lt="61021" ts="1465213581710" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-252" dt="" by="294"/>
+</httpSample>
+<httpSample t="86293" lt="25287" ts="1465213556439" s="false" lb="Home" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-244" dt="" by="294">
+  <httpSample t="25287" lt="25287" ts="1465213556439" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61006" lt="61006" ts="1465213581726" s="false" lb="https://handstandapp.com/" rc="504" rm="GATEWAY_TIMEOUT" tn="Thread Group 1-244" dt="" by="294"/>
+</httpSample>
+<httpSample t="90643" lt="28603" ts="1465213553075" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-216" dt="" by="70">
+  <httpSample t="28603" lt="28603" ts="1465213553075" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62040" lt="62040" ts="1465213581678" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-216" dt="" by="70"/>
+</httpSample>
+<httpSample t="115996" lt="53914" ts="1465213527723" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-5" dt="" by="70">
+  <httpSample t="53914" lt="53914" ts="1465213527723" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62035" lt="62035" ts="1465213581684" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-5" dt="" by="70"/>
+</httpSample>
+<httpSample t="83797" lt="21810" ts="1465213559923" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-273" dt="" by="70">
+  <httpSample t="21810" lt="21810" ts="1465213559923" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61988" lt="61988" ts="1465213581732" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-273" dt="" by="70"/>
+</httpSample>
+<httpSample t="88241" lt="26264" ts="1465213555480" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-236" dt="" by="70">
+  <httpSample t="26264" lt="26264" ts="1465213555480" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61978" lt="61978" ts="1465213581743" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-236" dt="" by="70"/>
+</httpSample>
+<httpSample t="85242" lt="23239" ts="1465213558479" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-261" dt="" by="70">
+  <httpSample t="23239" lt="23239" ts="1465213558479" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62003" lt="62003" ts="1465213581718" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-261" dt="" by="70"/>
+</httpSample>
+<httpSample t="116117" lt="54025" ts="1465213527606" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-4" dt="" by="70">
+  <httpSample t="54025" lt="54025" ts="1465213527606" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62062" lt="62062" ts="1465213581661" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-4" dt="" by="70"/>
+</httpSample>
+<httpSample t="85961" lt="23954" ts="1465213557762" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-255" dt="" by="70">
+  <httpSample t="23954" lt="23954" ts="1465213557762" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62008" lt="62008" ts="1465213581715" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-255" dt="" by="70"/>
+</httpSample>
+<httpSample t="89568" lt="27574" ts="1465213554155" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-225" dt="" by="70">
+  <httpSample t="27574" lt="27574" ts="1465213554155" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61994" lt="61994" ts="1465213581729" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-225" dt="" by="70"/>
+</httpSample>
+<httpSample t="86086" lt="24075" ts="1465213557639" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-254" dt="" by="70">
+  <httpSample t="24075" lt="24075" ts="1465213557639" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62012" lt="62012" ts="1465213581713" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-254" dt="" by="70"/>
+</httpSample>
+<httpSample t="86203" lt="24189" ts="1465213557523" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-253" dt="" by="70">
+  <httpSample t="24189" lt="24189" ts="1465213557523" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62015" lt="62015" ts="1465213581711" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-253" dt="" by="70"/>
+</httpSample>
+<httpSample t="86929" lt="24921" ts="1465213556797" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-247" dt="" by="70">
+  <httpSample t="24921" lt="24921" ts="1465213556797" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62009" lt="62009" ts="1465213581717" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-247" dt="" by="70"/>
+</httpSample>
+<httpSample t="87046" lt="25030" ts="1465213556681" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-246" dt="" by="70">
+  <httpSample t="25030" lt="25030" ts="1465213556681" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62016" lt="62016" ts="1465213581711" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-246" dt="" by="70"/>
+</httpSample>
+<httpSample t="81042" lt="19062" ts="1465213562683" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-296" dt="" by="70">
+  <httpSample t="19062" lt="19062" ts="1465213562683" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61981" lt="61981" ts="1465213581744" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-296" dt="" by="70"/>
+</httpSample>
+<httpSample t="83444" lt="21460" ts="1465213560282" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-276" dt="" by="70">
+  <httpSample t="21460" lt="21460" ts="1465213560282" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61985" lt="61985" ts="1465213581741" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-276" dt="" by="70"/>
+</httpSample>
+<httpSample t="87644" lt="25640" ts="1465213556081" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-241" dt="" by="70">
+  <httpSample t="25640" lt="25640" ts="1465213556081" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62005" lt="62005" ts="1465213581720" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-241" dt="" by="70"/>
+</httpSample>
+<httpSample t="88489" lt="26490" ts="1465213555238" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-234" dt="" by="70">
+  <httpSample t="26490" lt="26490" ts="1465213555238" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62000" lt="62000" ts="1465213581727" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-234" dt="" by="70"/>
+</httpSample>
+<httpSample t="85604" lt="23585" ts="1465213558123" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-258" dt="" by="70">
+  <httpSample t="23585" lt="23585" ts="1465213558123" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62020" lt="62020" ts="1465213581707" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-258" dt="" by="70"/>
+</httpSample>
+<httpSample t="94023" lt="31976" ts="1465213549708" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-188" dt="" by="70">
+  <httpSample t="31976" lt="31976" ts="1465213549708" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62047" lt="62047" ts="1465213581684" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-188" dt="" by="70"/>
+</httpSample>
+<httpSample t="88372" lt="26381" ts="1465213555356" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-235" dt="" by="70">
+  <httpSample t="26381" lt="26381" ts="1465213555356" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61992" lt="61992" ts="1465213581736" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-235" dt="" by="70"/>
+</httpSample>
+<httpSample t="61328" lt="61328" ts="1465213582404" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-460" dt="" by="70"/>
+<httpSample t="92342" lt="30260" ts="1465213551392" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-202" dt="" by="70">
+  <httpSample t="30260" lt="30260" ts="1465213551392" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62068" lt="62068" ts="1465213581666" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-202" dt="" by="70"/>
+</httpSample>
+<httpSample t="115166" lt="53090" ts="1465213528568" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-12" dt="" by="70">
+  <httpSample t="53090" lt="53090" ts="1465213528568" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62068" lt="62068" ts="1465213581666" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-12" dt="" by="70"/>
+</httpSample>
+<httpSample t="93782" lt="31700" ts="1465213549952" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-190" dt="" by="70">
+  <httpSample t="31700" lt="31700" ts="1465213549952" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62069" lt="62069" ts="1465213581665" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-190" dt="" by="70"/>
+</httpSample>
+<httpSample t="75283" lt="13334" ts="1465213568452" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-344" dt="" by="70">
+  <httpSample t="13334" lt="13334" ts="1465213568452" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61950" lt="61950" ts="1465213581785" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-344" dt="" by="70"/>
+</httpSample>
+<httpSample t="88132" lt="26089" ts="1465213555600" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-237" dt="" by="70">
+  <httpSample t="26089" lt="26089" ts="1465213555600" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62044" lt="62044" ts="1465213581688" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-237" dt="" by="70"/>
+</httpSample>
+<httpSample t="91977" lt="29929" ts="1465213551755" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-205" dt="" by="70">
+  <httpSample t="29929" lt="29929" ts="1465213551755" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62048" lt="62048" ts="1465213581684" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-205" dt="" by="70"/>
+</httpSample>
+<httpSample t="86816" lt="24789" ts="1465213556919" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-248" dt="" by="70">
+  <httpSample t="24789" lt="24789" ts="1465213556919" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62027" lt="62027" ts="1465213581708" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-248" dt="" by="70"/>
+</httpSample>
+<httpSample t="86694" lt="24677" ts="1465213557039" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-249" dt="" by="70">
+  <httpSample t="24677" lt="24677" ts="1465213557039" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62018" lt="62018" ts="1465213581715" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-249" dt="" by="70"/>
+</httpSample>
+<httpSample t="92701" lt="30628" ts="1465213551032" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-199" dt="" by="70">
+  <httpSample t="30628" lt="30628" ts="1465213551032" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62072" lt="62072" ts="1465213581661" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-199" dt="" by="70"/>
+</httpSample>
+<httpSample t="75402" lt="13453" ts="1465213568332" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-343" dt="" by="70">
+  <httpSample t="13453" lt="13453" ts="1465213568332" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61950" lt="61950" ts="1465213581784" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-343" dt="" by="70"/>
+</httpSample>
+<httpSample t="115766" lt="53666" ts="1465213527965" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-7" dt="" by="70">
+  <httpSample t="53666" lt="53666" ts="1465213527965" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62064" lt="62064" ts="1465213581667" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-7" dt="" by="70"/>
+</httpSample>
+<httpSample t="92577" lt="30502" ts="1465213551155" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-200" dt="" by="70">
+  <httpSample t="30502" lt="30502" ts="1465213551155" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62048" lt="62048" ts="1465213581684" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-200" dt="" by="70"/>
+</httpSample>
+<httpSample t="91381" lt="29336" ts="1465213552356" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-210" dt="" by="70">
+  <httpSample t="29336" lt="29336" ts="1465213552356" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62045" lt="62045" ts="1465213581692" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-210" dt="" by="70"/>
+</httpSample>
+<httpSample t="115056" lt="52974" ts="1465213528684" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-13" dt="" by="70">
+  <httpSample t="52974" lt="52974" ts="1465213528684" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62066" lt="62066" ts="1465213581674" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-13" dt="" by="70"/>
+</httpSample>
+<httpSample t="76732" lt="14769" ts="1465213567008" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-332" dt="" by="70">
+  <httpSample t="14769" lt="14769" ts="1465213567008" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61963" lt="61963" ts="1465213581777" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-332" dt="" by="70"/>
+</httpSample>
+<httpSample t="61444" lt="61444" ts="1465213582296" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-459" dt="" by="70"/>
+<httpSample t="60977" lt="60977" ts="1465213582763" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-463" dt="" by="70"/>
+<httpSample t="75051" lt="13088" ts="1465213568692" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-346" dt="" by="70">
+  <httpSample t="13088" lt="13088" ts="1465213568692" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61963" lt="61963" ts="1465213581780" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-346" dt="" by="70"/>
+</httpSample>
+<httpSample t="90431" lt="28486" ts="1465213553313" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-218" dt="" by="70">
+  <httpSample t="28486" lt="28486" ts="1465213553313" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61944" lt="61944" ts="1465213581800" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-218" dt="" by="70"/>
+</httpSample>
+<httpSample t="115902" lt="53791" ts="1465213527843" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-6" dt="" by="70">
+  <httpSample t="53791" lt="53791" ts="1465213527843" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62070" lt="62070" ts="1465213581675" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-6" dt="" by="70"/>
+</httpSample>
+<httpSample t="76251" lt="14282" ts="1465213567494" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-336" dt="" by="70">
+  <httpSample t="14282" lt="14282" ts="1465213567494" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61970" lt="61970" ts="1465213581775" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-336" dt="" by="70"/>
+</httpSample>
+<httpSample t="83942" lt="21924" ts="1465213559800" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-272" dt="" by="70">
+  <httpSample t="21924" lt="21924" ts="1465213559800" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62018" lt="62018" ts="1465213581724" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-272" dt="" by="70"/>
+</httpSample>
+<httpSample t="89473" lt="27462" ts="1465213554273" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-226" dt="" by="70">
+  <httpSample t="27462" lt="27462" ts="1465213554273" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62011" lt="62011" ts="1465213581735" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-226" dt="" by="70"/>
+</httpSample>
+<httpSample t="75169" lt="13208" ts="1465213568573" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-345" dt="" by="70">
+  <httpSample t="13208" lt="13208" ts="1465213568573" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61962" lt="61962" ts="1465213581780" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-345" dt="" by="70"/>
+</httpSample>
+<httpSample t="75775" lt="13799" ts="1465213567972" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-340" dt="" by="70">
+  <httpSample t="13799" lt="13799" ts="1465213567972" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61976" lt="61976" ts="1465213581771" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-340" dt="" by="70"/>
+</httpSample>
+<httpSample t="73973" lt="12023" ts="1465213569773" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-355" dt="" by="70">
+  <httpSample t="12023" lt="12023" ts="1465213569773" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61951" lt="61951" ts="1465213581795" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-355" dt="" by="70"/>
+</httpSample>
+<httpSample t="73491" lt="11548" ts="1465213570255" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-359" dt="" by="70">
+  <httpSample t="11548" lt="11548" ts="1465213570255" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61942" lt="61942" ts="1465213581804" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-359" dt="" by="70"/>
+</httpSample>
+<httpSample t="77695" lt="15729" ts="1465213566049" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-324" dt="" by="70">
+  <httpSample t="15729" lt="15729" ts="1465213566049" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61967" lt="61967" ts="1465213581777" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-324" dt="" by="70"/>
+</httpSample>
+<httpSample t="115540" lt="53432" ts="1465213528208" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-9" dt="" by="70">
+  <httpSample t="53432" lt="53432" ts="1465213528208" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62086" lt="62086" ts="1465213581662" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-9" dt="" by="70"/>
+</httpSample>
+<httpSample t="77217" lt="15309" ts="1465213566532" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-328" dt="" by="70">
+  <httpSample t="15309" lt="15309" ts="1465213566532" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61909" lt="61909" ts="1465213581840" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-328" dt="" by="70"/>
+</httpSample>
+<httpSample t="76136" lt="14166" ts="1465213567612" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-337" dt="" by="70">
+  <httpSample t="14166" lt="14166" ts="1465213567612" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61971" lt="61971" ts="1465213581777" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-337" dt="" by="70"/>
+</httpSample>
+<httpSample t="115661" lt="53554" ts="1465213528083" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-8" dt="" by="70">
+  <httpSample t="53554" lt="53554" ts="1465213528083" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62060" lt="62060" ts="1465213581684" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-8" dt="" by="70"/>
+</httpSample>
+<httpSample t="74095" lt="12161" ts="1465213569655" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-354" dt="" by="70">
+  <httpSample t="12161" lt="12161" ts="1465213569655" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61935" lt="61935" ts="1465213581815" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-354" dt="" by="70"/>
+</httpSample>
+<httpSample t="90552" lt="28613" ts="1465213553196" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-217" dt="" by="70">
+  <httpSample t="28613" lt="28613" ts="1465213553196" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61938" lt="61938" ts="1465213581810" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-217" dt="" by="70"/>
+</httpSample>
+<httpSample t="77340" lt="15428" ts="1465213566409" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-327" dt="" by="70">
+  <httpSample t="15428" lt="15428" ts="1465213566409" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61913" lt="61913" ts="1465213581836" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-327" dt="" by="70"/>
+</httpSample>
+<httpSample t="76014" lt="14040" ts="1465213567734" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-338" dt="" by="70">
+  <httpSample t="14040" lt="14040" ts="1465213567734" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61975" lt="61975" ts="1465213581773" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-338" dt="" by="70"/>
+</httpSample>
+<httpSample t="92240" lt="30297" ts="1465213551511" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-203" dt="" by="70">
+  <httpSample t="30297" lt="30297" ts="1465213551511" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61943" lt="61943" ts="1465213581808" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-203" dt="" by="70"/>
+</httpSample>
+<httpSample t="86594" lt="24536" ts="1465213557157" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-250" dt="" by="70">
+  <httpSample t="24536" lt="24536" ts="1465213557157" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62059" lt="62059" ts="1465213581692" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-250" dt="" by="70"/>
+</httpSample>
+<httpSample t="74822" lt="12885" ts="1465213568930" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-348" dt="" by="70">
+  <httpSample t="12885" lt="12885" ts="1465213568930" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61938" lt="61938" ts="1465213581814" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-348" dt="" by="70"/>
+</httpSample>
+<httpSample t="73258" lt="11312" ts="1465213570495" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-361" dt="" by="70">
+  <httpSample t="11312" lt="11312" ts="1465213570495" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61946" lt="61946" ts="1465213581807" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-361" dt="" by="70"/>
+</httpSample>
+<httpSample t="80704" lt="18791" ts="1465213563048" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-299" dt="" by="70">
+  <httpSample t="18791" lt="18791" ts="1465213563048" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61914" lt="61914" ts="1465213581838" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-299" dt="" by="70"/>
+</httpSample>
+<httpSample t="89840" lt="27886" ts="1465213553913" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-223" dt="" by="70">
+  <httpSample t="27886" lt="27886" ts="1465213553913" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61953" lt="61953" ts="1465213581800" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-223" dt="" by="70"/>
+</httpSample>
+<httpSample t="92843" lt="30750" ts="1465213550910" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-198" dt="" by="70">
+  <httpSample t="30750" lt="30750" ts="1465213550910" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62092" lt="62092" ts="1465213581661" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-198" dt="" by="70"/>
+</httpSample>
+<httpSample t="76501" lt="14529" ts="1465213567252" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-334" dt="" by="70">
+  <httpSample t="14529" lt="14529" ts="1465213567252" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61973" lt="61973" ts="1465213581780" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-334" dt="" by="70"/>
+</httpSample>
+<httpSample t="90076" lt="28120" ts="1465213553678" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-221" dt="" by="70">
+  <httpSample t="28120" lt="28120" ts="1465213553678" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61956" lt="61956" ts="1465213581798" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-221" dt="" by="70"/>
+</httpSample>
+<httpSample t="93442" lt="31340" ts="1465213550312" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-193" dt="" by="70">
+  <httpSample t="31340" lt="31340" ts="1465213550312" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62089" lt="62089" ts="1465213581665" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-193" dt="" by="70"/>
+</httpSample>
+<httpSample t="79026" lt="17112" ts="1465213564729" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-313" dt="" by="70">
+  <httpSample t="17112" lt="17112" ts="1465213564729" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61915" lt="61915" ts="1465213581840" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-313" dt="" by="70"/>
+</httpSample>
+<httpSample t="78666" lt="16746" ts="1465213565089" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-316" dt="" by="70">
+  <httpSample t="16746" lt="16746" ts="1465213565089" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61921" lt="61921" ts="1465213581834" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-316" dt="" by="70"/>
+</httpSample>
+<httpSample t="73865" lt="11913" ts="1465213569891" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-356" dt="" by="70">
+  <httpSample t="11913" lt="11913" ts="1465213569891" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61953" lt="61953" ts="1465213581803" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-356" dt="" by="70"/>
+</httpSample>
+<httpSample t="92120" lt="30021" ts="1465213551636" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-204" dt="" by="70">
+  <httpSample t="30021" lt="30021" ts="1465213551636" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62090" lt="62090" ts="1465213581666" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-204" dt="" by="70"/>
+</httpSample>
+<httpSample t="116391" lt="54288" ts="1465213527366" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-2" dt="" by="70">
+  <httpSample t="54288" lt="54288" ts="1465213527366" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62096" lt="62096" ts="1465213581661" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-2" dt="" by="70"/>
+</httpSample>
+<httpSample t="93202" lt="31106" ts="1465213550555" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-195" dt="" by="70">
+  <httpSample t="31106" lt="31106" ts="1465213550555" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62095" lt="62095" ts="1465213581662" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-195" dt="" by="70"/>
+</httpSample>
+<httpSample t="79393" lt="17472" ts="1465213564365" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-310" dt="" by="70">
+  <httpSample t="17472" lt="17472" ts="1465213564365" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61921" lt="61921" ts="1465213581837" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-310" dt="" by="70"/>
+</httpSample>
+<httpSample t="93569" lt="31622" ts="1465213550189" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-192" dt="" by="70">
+  <httpSample t="31622" lt="31622" ts="1465213550189" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61947" lt="61947" ts="1465213581811" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-192" dt="" by="70"/>
+</httpSample>
+<httpSample t="75548" lt="13568" ts="1465213568216" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-342" dt="" by="70">
+  <httpSample t="13568" lt="13568" ts="1465213568216" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61981" lt="61981" ts="1465213581783" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-342" dt="" by="70"/>
+</httpSample>
+<httpSample t="91172" lt="29219" ts="1465213552593" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-212" dt="" by="70">
+  <httpSample t="29219" lt="29219" ts="1465213552593" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61953" lt="61953" ts="1465213581812" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-212" dt="" by="70"/>
+</httpSample>
+<httpSample t="91528" lt="29573" ts="1465213552236" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-209" dt="" by="70">
+  <httpSample t="29573" lt="29573" ts="1465213552236" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61955" lt="61955" ts="1465213581809" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-209" dt="" by="70"/>
+</httpSample>
+<httpSample t="73749" lt="11783" ts="1465213570016" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-357" dt="" by="70">
+  <httpSample t="11783" lt="11783" ts="1465213570016" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61967" lt="61967" ts="1465213581798" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-357" dt="" by="70"/>
+</httpSample>
+<httpSample t="74353" lt="12374" ts="1465213569412" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-352" dt="" by="70">
+  <httpSample t="12374" lt="12374" ts="1465213569412" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61980" lt="61980" ts="1465213581785" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-352" dt="" by="70"/>
+</httpSample>
+<httpSample t="71952" lt="10049" ts="1465213571814" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-372" dt="" by="70">
+  <httpSample t="10049" lt="10049" ts="1465213571814" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61903" lt="61903" ts="1465213581863" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-372" dt="" by="70"/>
+</httpSample>
+<httpSample t="70026" lt="8135" ts="1465213573740" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-388" dt="" by="70">
+  <httpSample t="8135" lt="8135" ts="1465213573740" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61890" lt="61890" ts="1465213581876" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-388" dt="" by="70"/>
+</httpSample>
+<httpSample t="71830" lt="9922" ts="1465213571936" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-373" dt="" by="70">
+  <httpSample t="9922" lt="9922" ts="1465213571936" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61908" lt="61908" ts="1465213581858" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-373" dt="" by="70"/>
+</httpSample>
+<httpSample t="76875" lt="14896" ts="1465213566892" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-331" dt="" by="70">
+  <httpSample t="14896" lt="14896" ts="1465213566892" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61980" lt="61980" ts="1465213581787" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-331" dt="" by="70"/>
+</httpSample>
+<httpSample t="77597" lt="15661" ts="1465213566170" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-325" dt="" by="70">
+  <httpSample t="15661" lt="15661" ts="1465213566170" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61933" lt="61933" ts="1465213581834" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-325" dt="" by="70"/>
+</httpSample>
+<httpSample t="69670" lt="7779" ts="1465213574098" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-391" dt="" by="70">
+  <httpSample t="7779" lt="7779" ts="1465213574098" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61891" lt="61891" ts="1465213581877" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-391" dt="" by="70"/>
+</httpSample>
+<httpSample t="91295" lt="29205" ts="1465213552473" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-211" dt="" by="70">
+  <httpSample t="29205" lt="29205" ts="1465213552473" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62090" lt="62090" ts="1465213581678" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-211" dt="" by="70"/>
+</httpSample>
+<httpSample t="76399" lt="14402" ts="1465213567372" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-335" dt="" by="70">
+  <httpSample t="14402" lt="14402" ts="1465213567372" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61998" lt="61998" ts="1465213581773" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-335" dt="" by="70"/>
+</httpSample>
+<httpSample t="87812" lt="25812" ts="1465213555959" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-240" dt="" by="70">
+  <httpSample t="25812" lt="25812" ts="1465213555959" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62001" lt="62001" ts="1465213581770" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-240" dt="" by="70"/>
+</httpSample>
+<httpSample t="91056" lt="29096" ts="1465213552716" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-213" dt="" by="70">
+  <httpSample t="29096" lt="29096" ts="1465213552716" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61960" lt="61960" ts="1465213581812" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-213" dt="" by="70"/>
+</httpSample>
+<httpSample t="73639" lt="11669" ts="1465213570133" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-358" dt="" by="70">
+  <httpSample t="11669" lt="11669" ts="1465213570133" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61971" lt="61971" ts="1465213581801" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-358" dt="" by="70"/>
+</httpSample>
+<httpSample t="70399" lt="8499" ts="1465213573374" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-385" dt="" by="70">
+  <httpSample t="8499" lt="8499" ts="1465213573374" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61900" lt="61900" ts="1465213581873" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-385" dt="" by="70"/>
+</httpSample>
+<httpSample t="84809" lt="22891" ts="1465213558964" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-265" dt="" by="70">
+  <httpSample t="22891" lt="22891" ts="1465213558964" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61918" lt="61918" ts="1465213581855" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-265" dt="" by="70"/>
+</httpSample>
+<httpSample t="75684" lt="13692" ts="1465213568090" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-341" dt="" by="70">
+  <httpSample t="13692" lt="13692" ts="1465213568090" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61992" lt="61992" ts="1465213581782" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-341" dt="" by="70"/>
+</httpSample>
+<httpSample t="84570" lt="22650" ts="1465213559205" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-267" dt="" by="70">
+  <httpSample t="22650" lt="22650" ts="1465213559205" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61921" lt="61921" ts="1465213581854" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-267" dt="" by="70"/>
+</httpSample>
+<httpSample t="92505" lt="30394" ts="1465213551271" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-201" dt="" by="70">
+  <httpSample t="30394" lt="30394" ts="1465213551271" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62110" lt="62110" ts="1465213581666" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-201" dt="" by="70"/>
+</httpSample>
+<httpSample t="72799" lt="10875" ts="1465213570977" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-365" dt="" by="70">
+  <httpSample t="10875" lt="10875" ts="1465213570977" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61924" lt="61924" ts="1465213581852" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-365" dt="" by="70"/>
+</httpSample>
+<httpSample t="116536" lt="54396" ts="1465213527241" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-1" dt="" by="70">
+  <httpSample t="54396" lt="54396" ts="1465213527241" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62110" lt="62110" ts="1465213581667" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-1" dt="" by="70"/>
+</httpSample>
+<httpSample t="69918" lt="8021" ts="1465213573859" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-389" dt="" by="70">
+  <httpSample t="8021" lt="8021" ts="1465213573859" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61897" lt="61897" ts="1465213581880" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-389" dt="" by="70"/>
+</httpSample>
+<httpSample t="60909" lt="60909" ts="1465213582869" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-464" dt="" by="70"/>
+<httpSample t="72200" lt="10284" ts="1465213571577" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-370" dt="" by="70">
+  <httpSample t="10284" lt="10284" ts="1465213571577" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61915" lt="61915" ts="1465213581862" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-370" dt="" by="70"/>
+</httpSample>
+<httpSample t="72564" lt="10642" ts="1465213571215" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-367" dt="" by="70">
+  <httpSample t="10642" lt="10642" ts="1465213571215" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61921" lt="61921" ts="1465213581858" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-367" dt="" by="70"/>
+</httpSample>
+<httpSample t="73405" lt="11422" ts="1465213570374" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-360" dt="" by="70">
+  <httpSample t="11422" lt="11422" ts="1465213570374" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61983" lt="61983" ts="1465213581796" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-360" dt="" by="70"/>
+</httpSample>
+<httpSample t="67518" lt="5637" ts="1465213576262" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-409" dt="" by="70">
+  <httpSample t="5637" lt="5637" ts="1465213576262" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61881" lt="61881" ts="1465213581899" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-409" dt="" by="70"/>
+</httpSample>
+<httpSample t="78090" lt="16150" ts="1465213565690" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-321" dt="" by="70">
+  <httpSample t="16150" lt="16150" ts="1465213565690" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61941" lt="61941" ts="1465213581839" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-321" dt="" by="70"/>
+</httpSample>
+<httpSample t="85178" lt="23247" ts="1465213558603" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-262" dt="" by="70">
+  <httpSample t="23247" lt="23247" ts="1465213558603" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61932" lt="61932" ts="1465213581849" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-262" dt="" by="70"/>
+</httpSample>
+<httpSample t="77133" lt="15191" ts="1465213566648" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-329" dt="" by="70">
+  <httpSample t="15191" lt="15191" ts="1465213566648" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61943" lt="61943" ts="1465213581838" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-329" dt="" by="70"/>
+</httpSample>
+<httpSample t="93109" lt="31032" ts="1465213550673" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-196" dt="" by="70">
+  <httpSample t="31032" lt="31032" ts="1465213550673" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62077" lt="62077" ts="1465213581705" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-196" dt="" by="70"/>
+</httpSample>
+<httpSample t="72448" lt="10521" ts="1465213571335" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-368" dt="" by="70">
+  <httpSample t="10521" lt="10521" ts="1465213571335" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61927" lt="61927" ts="1465213581856" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-368" dt="" by="70"/>
+</httpSample>
+<httpSample t="63315" lt="1462" ts="1465213580468" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-444" dt="" by="70">
+  <httpSample t="1462" lt="1462" ts="1465213580468" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61852" lt="61852" ts="1465213581931" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-444" dt="" by="70"/>
+</httpSample>
+<httpSample t="89385" lt="27373" ts="1465213554399" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-227" dt="" by="70">
+  <httpSample t="27373" lt="27373" ts="1465213554399" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62011" lt="62011" ts="1465213581773" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-227" dt="" by="70"/>
+</httpSample>
+<httpSample t="87586" lt="25572" ts="1465213556199" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-242" dt="" by="70">
+  <httpSample t="25572" lt="25572" ts="1465213556199" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62015" lt="62015" ts="1465213581770" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-242" dt="" by="70"/>
+</httpSample>
+<httpSample t="70770" lt="8857" ts="1465213573016" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-382" dt="" by="70">
+  <httpSample t="8857" lt="8857" ts="1465213573016" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61913" lt="61913" ts="1465213581873" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-382" dt="" by="70"/>
+</httpSample>
+<httpSample t="62962" lt="1106" ts="1465213580825" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-447" dt="" by="70">
+  <httpSample t="1106" lt="1106" ts="1465213580825" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61856" lt="61856" ts="1465213581931" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-447" dt="" by="70"/>
+</httpSample>
+<httpSample t="84944" lt="23011" ts="1465213558843" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-264" dt="" by="70">
+  <httpSample t="23011" lt="23011" ts="1465213558843" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61934" lt="61934" ts="1465213581853" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-264" dt="" by="70"/>
+</httpSample>
+<httpSample t="70889" lt="8973" ts="1465213572899" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-381" dt="" by="70">
+  <httpSample t="8973" lt="8973" ts="1465213572899" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61916" lt="61916" ts="1465213581872" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-381" dt="" by="70"/>
+</httpSample>
+<httpSample t="85546" lt="23609" ts="1465213558243" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-259" dt="" by="70">
+  <httpSample t="23609" lt="23609" ts="1465213558243" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61938" lt="61938" ts="1465213581851" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-259" dt="" by="70"/>
+</httpSample>
+<httpSample t="91918" lt="29833" ts="1465213551872" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-206" dt="" by="70">
+  <httpSample t="29833" lt="29833" ts="1465213551872" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62085" lt="62085" ts="1465213581705" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-206" dt="" by="70"/>
+</httpSample>
+<httpSample t="83389" lt="21343" ts="1465213560402" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-277" dt="" by="70">
+  <httpSample t="21343" lt="21343" ts="1465213560402" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62047" lt="62047" ts="1465213581744" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-277" dt="" by="70"/>
+</httpSample>
+<httpSample t="63566" lt="1704" ts="1465213580225" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-442" dt="" by="70">
+  <httpSample t="1704" lt="1704" ts="1465213580225" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61861" lt="61861" ts="1465213581930" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-442" dt="" by="70"/>
+</httpSample>
+<httpSample t="70535" lt="8611" ts="1465213573258" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-384" dt="" by="70">
+  <httpSample t="8611" lt="8611" ts="1465213573258" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61924" lt="61924" ts="1465213581869" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-384" dt="" by="70"/>
+</httpSample>
+<httpSample t="88677" lt="26653" ts="1465213555117" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-233" dt="" by="70">
+  <httpSample t="26653" lt="26653" ts="1465213555117" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62024" lt="62024" ts="1465213581770" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-233" dt="" by="70"/>
+</httpSample>
+<httpSample t="87235" lt="25167" ts="1465213556559" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-245" dt="" by="70">
+  <httpSample t="25167" lt="25167" ts="1465213556559" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62068" lt="62068" ts="1465213581726" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-245" dt="" by="70"/>
+</httpSample>
+<httpSample t="83153" lt="21103" ts="1465213560641" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-279" dt="" by="70">
+  <httpSample t="21103" lt="21103" ts="1465213560641" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62051" lt="62051" ts="1465213581743" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-279" dt="" by="70"/>
+</httpSample>
+<httpSample t="80269" lt="18245" ts="1465213563525" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-303" dt="" by="70">
+  <httpSample t="18245" lt="18245" ts="1465213563525" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62024" lt="62024" ts="1465213581770" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-303" dt="" by="70"/>
+</httpSample>
+<httpSample t="67414" lt="5519" ts="1465213576381" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-410" dt="" by="70">
+  <httpSample t="5519" lt="5519" ts="1465213576381" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61895" lt="61895" ts="1465213581900" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-410" dt="" by="70"/>
+</httpSample>
+<httpSample t="87479" lt="25411" ts="1465213556317" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-243" dt="" by="70">
+  <httpSample t="25411" lt="25411" ts="1465213556317" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62069" lt="62069" ts="1465213581727" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-243" dt="" by="70"/>
+</httpSample>
+<httpSample t="71264" lt="9342" ts="1465213572533" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-378" dt="" by="70">
+  <httpSample t="9342" lt="9342" ts="1465213572533" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61922" lt="61922" ts="1465213581875" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-378" dt="" by="70"/>
+</httpSample>
+<httpSample t="84115" lt="22051" ts="1465213559682" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-271" dt="" by="70">
+  <httpSample t="22051" lt="22051" ts="1465213559682" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62065" lt="62065" ts="1465213581732" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-271" dt="" by="70"/>
+</httpSample>
+<httpSample t="71021" lt="9099" ts="1465213572777" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-380" dt="" by="70">
+  <httpSample t="9099" lt="9099" ts="1465213572777" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61922" lt="61922" ts="1465213581876" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-380" dt="" by="70"/>
+</httpSample>
+<httpSample t="68021" lt="6122" ts="1465213575778" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-405" dt="" by="70">
+  <httpSample t="6122" lt="6122" ts="1465213575778" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61899" lt="61899" ts="1465213581900" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-405" dt="" by="70"/>
+</httpSample>
+<httpSample t="67057" lt="5162" ts="1465213576742" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-413" dt="" by="70">
+  <httpSample t="5162" lt="5162" ts="1465213576742" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61895" lt="61895" ts="1465213581904" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-413" dt="" by="70"/>
+</httpSample>
+<httpSample t="72106" lt="10172" ts="1465213571694" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-371" dt="" by="70">
+  <httpSample t="10172" lt="10172" ts="1465213571694" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61934" lt="61934" ts="1465213581866" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-371" dt="" by="70"/>
+</httpSample>
+<httpSample t="72345" lt="10404" ts="1465213571455" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-369" dt="" by="70">
+  <httpSample t="10404" lt="10404" ts="1465213571455" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61940" lt="61940" ts="1465213581860" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-369" dt="" by="70"/>
+</httpSample>
+<httpSample t="68382" lt="6478" ts="1465213575419" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-402" dt="" by="70">
+  <httpSample t="6478" lt="6478" ts="1465213575419" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61904" lt="61904" ts="1465213581897" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-402" dt="" by="70"/>
+</httpSample>
+<httpSample t="68981" lt="7062" ts="1465213574821" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-397" dt="" by="70">
+  <httpSample t="7062" lt="7062" ts="1465213574821" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61919" lt="61919" ts="1465213581883" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-397" dt="" by="70"/>
+</httpSample>
+<httpSample t="69586" lt="7672" ts="1465213574217" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-392" dt="" by="70">
+  <httpSample t="7672" lt="7672" ts="1465213574217" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61914" lt="61914" ts="1465213581889" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-392" dt="" by="70"/>
+</httpSample>
+<httpSample t="81237" lt="19280" ts="1465213562567" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-295" dt="" by="70">
+  <httpSample t="19280" lt="19280" ts="1465213562567" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61958" lt="61958" ts="1465213581846" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-295" dt="" by="70"/>
+</httpSample>
+<httpSample t="65014" lt="3136" ts="1465213578787" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-430" dt="" by="70">
+  <httpSample t="3136" lt="3136" ts="1465213578787" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61877" lt="61877" ts="1465213581924" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-430" dt="" by="70"/>
+</httpSample>
+<httpSample t="68864" lt="6947" ts="1465213574938" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-398" dt="" by="70">
+  <httpSample t="6947" lt="6947" ts="1465213574938" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61917" lt="61917" ts="1465213581885" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-398" dt="" by="70"/>
+</httpSample>
+<httpSample t="77876" lt="15841" ts="1465213565929" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-323" dt="" by="70">
+  <httpSample t="15841" lt="15841" ts="1465213565929" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62035" lt="62035" ts="1465213581770" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-323" dt="" by="70"/>
+</httpSample>
+<httpSample t="78596" lt="16626" ts="1465213565209" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-317" dt="" by="70">
+  <httpSample t="16626" lt="16626" ts="1465213565209" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61970" lt="61970" ts="1465213581835" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-317" dt="" by="70"/>
+</httpSample>
+<httpSample t="65383" lt="3497" ts="1465213578422" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-427" dt="" by="70">
+  <httpSample t="3497" lt="3497" ts="1465213578422" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61886" lt="61886" ts="1465213581919" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-427" dt="" by="70"/>
+</httpSample>
+<httpSample t="63099" lt="1226" ts="1465213580707" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-446" dt="" by="70">
+  <httpSample t="1226" lt="1226" ts="1465213580707" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61872" lt="61872" ts="1465213581934" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-446" dt="" by="70"/>
+</httpSample>
+<httpSample t="68624" lt="6712" ts="1465213575181" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-400" dt="" by="70">
+  <httpSample t="6712" lt="6712" ts="1465213575181" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61912" lt="61912" ts="1465213581893" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-400" dt="" by="70"/>
+</httpSample>
+<httpSample t="65872" lt="3976" ts="1465213577944" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-423" dt="" by="70">
+  <httpSample t="3976" lt="3976" ts="1465213577944" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61895" lt="61895" ts="1465213581921" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-423" dt="" by="70"/>
+</httpSample>
+<httpSample t="84373" lt="22412" ts="1465213559443" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-269" dt="" by="70">
+  <httpSample t="22412" lt="22412" ts="1465213559443" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61962" lt="61962" ts="1465213581854" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-269" dt="" by="70"/>
+</httpSample>
+<httpSample t="62750" lt="883" ts="1465213581067" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-449" dt="" by="70">
+  <httpSample t="883" lt="883" ts="1465213581067" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61867" lt="61867" ts="1465213581950" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-449" dt="" by="70"/>
+</httpSample>
+<httpSample t="70680" lt="8732" ts="1465213573138" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-383" dt="" by="70">
+  <httpSample t="8732" lt="8732" ts="1465213573138" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61947" lt="61947" ts="1465213581871" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-383" dt="" by="70"/>
+</httpSample>
+<httpSample t="73085" lt="11134" ts="1465213570734" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-363" dt="" by="70">
+  <httpSample t="11134" lt="11134" ts="1465213570734" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61951" lt="61951" ts="1465213581868" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-363" dt="" by="70"/>
+</httpSample>
+<httpSample t="80173" lt="18196" ts="1465213563648" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-304" dt="" by="70">
+  <httpSample t="18196" lt="18196" ts="1465213563648" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61977" lt="61977" ts="1465213581844" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-304" dt="" by="70"/>
+</httpSample>
+<httpSample t="77048" lt="15070" ts="1465213566772" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-330" dt="" by="70">
+  <httpSample t="15070" lt="15070" ts="1465213566772" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61979" lt="61979" ts="1465213581841" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-330" dt="" by="70"/>
+</httpSample>
+<httpSample t="71647" lt="9703" ts="1465213572174" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-375" dt="" by="70">
+  <httpSample t="9703" lt="9703" ts="1465213572174" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61943" lt="61943" ts="1465213581878" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-375" dt="" by="70"/>
+</httpSample>
+<httpSample t="64317" lt="2418" ts="1465213579505" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-436" dt="" by="70">
+  <httpSample t="2418" lt="2418" ts="1465213579505" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61899" lt="61899" ts="1465213581923" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-436" dt="" by="70"/>
+</httpSample>
+<httpSample t="84258" lt="22284" ts="1465213559562" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-270" dt="" by="70">
+  <httpSample t="22284" lt="22284" ts="1465213559562" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61975" lt="61975" ts="1465213581845" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-270" dt="" by="70"/>
+</httpSample>
+<httpSample t="62870" lt="984" ts="1465213580950" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-448" dt="" by="70">
+  <httpSample t="984" lt="984" ts="1465213580950" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61886" lt="61886" ts="1465213581934" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-448" dt="" by="70"/>
+</httpSample>
+<httpSample t="66724" lt="4806" ts="1465213577099" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-416" dt="" by="70">
+  <httpSample t="4806" lt="4806" ts="1465213577099" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61918" lt="61918" ts="1465213581905" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-416" dt="" by="70"/>
+</httpSample>
+<httpSample t="87983" lt="25931" ts="1465213555839" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-239" dt="" by="70">
+  <httpSample t="25931" lt="25931" ts="1465213555839" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62052" lt="62052" ts="1465213581770" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-239" dt="" by="70"/>
+</httpSample>
+<httpSample t="71167" lt="9215" ts="1465213572655" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-379" dt="" by="70">
+  <httpSample t="9215" lt="9215" ts="1465213572655" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61951" lt="61951" ts="1465213581871" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-379" dt="" by="70"/>
+</httpSample>
+<httpSample t="64435" lt="2536" ts="1465213579388" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-435" dt="" by="70">
+  <httpSample t="2536" lt="2536" ts="1465213579388" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61899" lt="61899" ts="1465213581924" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-435" dt="" by="70"/>
+</httpSample>
+<httpSample t="62275" lt="506" ts="1465213581549" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-453" dt="" by="70">
+  <httpSample t="506" lt="506" ts="1465213581549" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61768" lt="61768" ts="1465213582056" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-453" dt="" by="70"/>
+</httpSample>
+<httpSample t="63717" lt="1824" ts="1465213580107" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-441" dt="" by="70">
+  <httpSample t="1824" lt="1824" ts="1465213580107" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61892" lt="61892" ts="1465213581932" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-441" dt="" by="70"/>
+</httpSample>
+<httpSample t="67204" lt="5284" ts="1465213576621" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-412" dt="" by="70">
+  <httpSample t="5284" lt="5284" ts="1465213576621" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61920" lt="61920" ts="1465213581905" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-412" dt="" by="70"/>
+</httpSample>
+<httpSample t="84742" lt="22771" ts="1465213559084" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-266" dt="" by="70">
+  <httpSample t="22771" lt="22771" ts="1465213559084" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61971" lt="61971" ts="1465213581855" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-266" dt="" by="70"/>
+</httpSample>
+<httpSample t="66604" lt="4680" ts="1465213577222" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-417" dt="" by="70">
+  <httpSample t="4680" lt="4680" ts="1465213577222" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61923" lt="61923" ts="1465213581903" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-417" dt="" by="70"/>
+</httpSample>
+<httpSample t="66005" lt="4082" ts="1465213577822" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-422" dt="" by="70">
+  <httpSample t="4082" lt="4082" ts="1465213577822" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61922" lt="61922" ts="1465213581905" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-422" dt="" by="70"/>
+</httpSample>
+<httpSample t="69371" lt="7427" ts="1465213574456" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-394" dt="" by="70">
+  <httpSample t="7427" lt="7427" ts="1465213574456" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61944" lt="61944" ts="1465213581883" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-394" dt="" by="70"/>
+</httpSample>
+<httpSample t="63839" lt="1937" ts="1465213579988" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-440" dt="" by="70">
+  <httpSample t="1937" lt="1937" ts="1465213579988" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61902" lt="61902" ts="1465213581925" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-440" dt="" by="70"/>
+</httpSample>
+<httpSample t="63241" lt="1338" ts="1465213580589" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-445" dt="" by="70">
+  <httpSample t="1338" lt="1338" ts="1465213580589" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61903" lt="61903" ts="1465213581927" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-445" dt="" by="70"/>
+</httpSample>
+<httpSample t="67809" lt="5880" ts="1465213576022" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-407" dt="" by="70">
+  <httpSample t="5880" lt="5880" ts="1465213576022" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61929" lt="61929" ts="1465213581902" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-407" dt="" by="70"/>
+</httpSample>
+<httpSample t="71413" lt="9450" ts="1465213572418" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-377" dt="" by="70">
+  <httpSample t="9450" lt="9450" ts="1465213572418" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61963" lt="61963" ts="1465213581868" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-377" dt="" by="70"/>
+</httpSample>
+<httpSample t="66127" lt="4203" ts="1465213577705" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-421" dt="" by="70">
+  <httpSample t="4203" lt="4203" ts="1465213577705" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61913" lt="61913" ts="1465213581919" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-421" dt="" by="70"/>
+</httpSample>
+<httpSample t="63963" lt="2056" ts="1465213579869" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-439" dt="" by="70">
+  <httpSample t="2056" lt="2056" ts="1465213579869" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61906" lt="61906" ts="1465213581926" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-439" dt="" by="70"/>
+</httpSample>
+<httpSample t="65652" lt="3748" ts="1465213578181" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-425" dt="" by="70">
+  <httpSample t="3748" lt="3748" ts="1465213578181" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61904" lt="61904" ts="1465213581929" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-425" dt="" by="70"/>
+</httpSample>
+<httpSample t="65528" lt="3614" ts="1465213578305" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-426" dt="" by="70">
+  <httpSample t="3614" lt="3614" ts="1465213578305" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61914" lt="61914" ts="1465213581919" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-426" dt="" by="70"/>
+</httpSample>
+<httpSample t="74782" lt="12774" ts="1465213569052" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-349" dt="" by="70">
+  <httpSample t="12774" lt="12774" ts="1465213569052" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62000" lt="62000" ts="1465213581834" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-349" dt="" by="70"/>
+</httpSample>
+<httpSample t="67335" lt="5396" ts="1465213576500" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-411" dt="" by="70">
+  <httpSample t="5396" lt="5396" ts="1465213576500" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61939" lt="61939" ts="1465213581896" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-411" dt="" by="70"/>
+</httpSample>
+<httpSample t="68538" lt="6598" ts="1465213575297" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-401" dt="" by="70">
+  <httpSample t="6598" lt="6598" ts="1465213575297" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61939" lt="61939" ts="1465213581896" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-401" dt="" by="70"/>
+</httpSample>
+<httpSample t="68774" lt="6827" ts="1465213575061" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-399" dt="" by="70">
+  <httpSample t="6827" lt="6827" ts="1465213575061" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61946" lt="61946" ts="1465213581889" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-399" dt="" by="70"/>
+</httpSample>
+<httpSample t="68178" lt="6237" ts="1465213575658" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-404" dt="" by="70">
+  <httpSample t="6237" lt="6237" ts="1465213575658" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61941" lt="61941" ts="1465213581895" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-404" dt="" by="70"/>
+</httpSample>
+<httpSample t="82951" lt="20954" ts="1465213560886" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-281" dt="" by="70">
+  <httpSample t="20954" lt="20954" ts="1465213560886" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61998" lt="61998" ts="1465213581839" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-281" dt="" by="70"/>
+</httpSample>
+<httpSample t="114910" lt="53198" ts="1465213528928" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-15" dt="" by="70">
+  <httpSample t="53198" lt="53198" ts="1465213528928" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61713" lt="61713" ts="1465213582125" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-15" dt="" by="70"/>
+</httpSample>
+<httpSample t="71781" lt="9805" ts="1465213572058" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-374" dt="" by="70">
+  <httpSample t="9805" lt="9805" ts="1465213572058" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61976" lt="61976" ts="1465213581863" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-374" dt="" by="70"/>
+</httpSample>
+<httpSample t="67937" lt="5997" ts="1465213575902" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-406" dt="" by="70">
+  <httpSample t="5997" lt="5997" ts="1465213575902" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61940" lt="61940" ts="1465213581899" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-406" dt="" by="70"/>
+</httpSample>
+<httpSample t="64573" lt="2655" ts="1465213579267" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-434" dt="" by="70">
+  <httpSample t="2655" lt="2655" ts="1465213579267" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61917" lt="61917" ts="1465213581923" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-434" dt="" by="70"/>
+</httpSample>
+<httpSample t="78271" lt="16267" ts="1465213565569" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-320" dt="" by="70">
+  <httpSample t="16267" lt="16267" ts="1465213565569" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62005" lt="62005" ts="1465213581835" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-320" dt="" by="70"/>
+</httpSample>
+<httpSample t="85482" lt="23493" ts="1465213558360" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-260" dt="" by="70">
+  <httpSample t="23493" lt="23493" ts="1465213558360" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61990" lt="61990" ts="1465213581852" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-260" dt="" by="70"/>
+</httpSample>
+<httpSample t="64098" lt="2178" ts="1465213579744" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-438" dt="" by="70">
+  <httpSample t="2178" lt="2178" ts="1465213579744" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61919" lt="61919" ts="1465213581923" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-438" dt="" by="70"/>
+</httpSample>
+<httpSample t="64214" lt="2299" ts="1465213579627" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-437" dt="" by="70">
+  <httpSample t="2299" lt="2299" ts="1465213579627" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61915" lt="61915" ts="1465213581926" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-437" dt="" by="70"/>
+</httpSample>
+<httpSample t="79955" lt="17848" ts="1465213563889" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-306" dt="" by="70">
+  <httpSample t="17848" lt="17848" ts="1465213563889" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62108" lt="62108" ts="1465213581736" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-306" dt="" by="70"/>
+</httpSample>
+<httpSample t="72990" lt="10992" ts="1465213570854" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-364" dt="" by="70">
+  <httpSample t="10992" lt="10992" ts="1465213570854" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61997" lt="61997" ts="1465213581847" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-364" dt="" by="70"/>
+</httpSample>
+<httpSample t="89806" lt="27775" ts="1465213554036" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-224" dt="" by="70">
+  <httpSample t="27775" lt="27775" ts="1465213554036" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62031" lt="62031" ts="1465213581811" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-224" dt="" by="70"/>
+</httpSample>
+<httpSample t="69146" lt="7189" ts="1465213574699" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-396" dt="" by="70">
+  <httpSample t="7189" lt="7189" ts="1465213574699" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61957" lt="61957" ts="1465213581888" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-396" dt="" by="70"/>
+</httpSample>
+<httpSample t="66382" lt="4456" ts="1465213577464" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-419" dt="" by="70">
+  <httpSample t="4456" lt="4456" ts="1465213577464" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61925" lt="61925" ts="1465213581921" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-419" dt="" by="70"/>
+</httpSample>
+<httpSample t="63495" lt="1586" ts="1465213580347" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-443" dt="" by="70">
+  <httpSample t="1586" lt="1586" ts="1465213580347" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61909" lt="61909" ts="1465213581933" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-443" dt="" by="70"/>
+</httpSample>
+<httpSample t="66985" lt="5046" ts="1465213576860" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-414" dt="" by="70">
+  <httpSample t="5046" lt="5046" ts="1465213576860" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61938" lt="61938" ts="1465213581907" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-414" dt="" by="70"/>
+</httpSample>
+<httpSample t="68303" lt="6352" ts="1465213575541" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-403" dt="" by="70">
+  <httpSample t="6352" lt="6352" ts="1465213575541" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61951" lt="61951" ts="1465213581893" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-403" dt="" by="70"/>
+</httpSample>
+<httpSample t="70347" lt="8374" ts="1465213573497" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-386" dt="" by="70">
+  <httpSample t="8374" lt="8374" ts="1465213573497" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61973" lt="61973" ts="1465213581871" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-386" dt="" by="70"/>
+</httpSample>
+<httpSample t="65183" lt="3255" ts="1465213578664" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-429" dt="" by="70">
+  <httpSample t="3255" lt="3255" ts="1465213578664" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61927" lt="61927" ts="1465213581920" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-429" dt="" by="70"/>
+</httpSample>
+<httpSample t="64942" lt="3024" ts="1465213578905" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-431" dt="" by="70">
+  <httpSample t="3024" lt="3024" ts="1465213578905" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61917" lt="61917" ts="1465213581930" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-431" dt="" by="70"/>
+</httpSample>
+<httpSample t="66262" lt="4335" ts="1465213577584" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-420" dt="" by="70">
+  <httpSample t="4335" lt="4335" ts="1465213577584" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61927" lt="61927" ts="1465213581919" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-420" dt="" by="70"/>
+</httpSample>
+<httpSample t="115036" lt="53145" ts="1465213528806" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-14" dt="" by="70">
+  <httpSample t="53145" lt="53145" ts="1465213528806" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61891" lt="61891" ts="1465213581951" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-14" dt="" by="70"/>
+</httpSample>
+<httpSample t="65302" lt="3380" ts="1465213578545" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-428" dt="" by="70">
+  <httpSample t="3380" lt="3380" ts="1465213578545" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61922" lt="61922" ts="1465213581925" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-428" dt="" by="70"/>
+</httpSample>
+<httpSample t="67709" lt="5762" ts="1465213576138" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-408" dt="" by="70">
+  <httpSample t="5762" lt="5762" ts="1465213576138" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61947" lt="61947" ts="1465213581900" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-408" dt="" by="70"/>
+</httpSample>
+<httpSample t="64704" lt="2783" ts="1465213579144" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-433" dt="" by="70">
+  <httpSample t="2783" lt="2783" ts="1465213579144" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61921" lt="61921" ts="1465213581927" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-433" dt="" by="70"/>
+</httpSample>
+<httpSample t="62537" lt="634" ts="1465213581311" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-451" dt="" by="70">
+  <httpSample t="634" lt="634" ts="1465213581311" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61903" lt="61903" ts="1465213581945" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-451" dt="" by="70"/>
+</httpSample>
+<httpSample t="64826" lt="2900" ts="1465213579024" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-432" dt="" by="70">
+  <httpSample t="2900" lt="2900" ts="1465213579024" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61925" lt="61925" ts="1465213581925" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-432" dt="" by="70"/>
+</httpSample>
+<httpSample t="62428" lt="542" ts="1465213581427" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-452" dt="" by="70">
+  <httpSample t="542" lt="542" ts="1465213581427" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61886" lt="61886" ts="1465213581969" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-452" dt="" by="70"/>
+</httpSample>
+<httpSample t="75042" lt="13008" ts="1465213568814" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-347" dt="" by="70">
+  <httpSample t="13008" lt="13008" ts="1465213568814" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62034" lt="62034" ts="1465213581822" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-347" dt="" by="70"/>
+</httpSample>
+<httpSample t="62668" lt="744" ts="1465213581188" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-450" dt="" by="70">
+  <httpSample t="744" lt="744" ts="1465213581188" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61924" lt="61924" ts="1465213581932" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-450" dt="" by="70"/>
+</httpSample>
+<httpSample t="61951" lt="451" ts="1465213581908" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-456" dt="" by="70">
+  <httpSample t="451" lt="451" ts="1465213581908" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61500" lt="61500" ts="1465213582359" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-456" dt="" by="70"/>
+</httpSample>
+<httpSample t="66519" lt="4580" ts="1465213577340" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-418" dt="" by="70">
+  <httpSample t="4580" lt="4580" ts="1465213577340" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61939" lt="61939" ts="1465213581920" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-418" dt="" by="70"/>
+</httpSample>
+<httpSample t="69283" lt="7303" ts="1465213574577" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-395" dt="" by="70">
+  <httpSample t="7303" lt="7303" ts="1465213574577" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61980" lt="61980" ts="1465213581880" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-395" dt="" by="70"/>
+</httpSample>
+<httpSample t="70241" lt="8249" ts="1465213573620" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-387" dt="" by="70">
+  <httpSample t="8249" lt="8249" ts="1465213573620" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61992" lt="61992" ts="1465213581869" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-387" dt="" by="70"/>
+</httpSample>
+<httpSample t="69881" lt="7894" ts="1465213573980" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-390" dt="" by="70">
+  <httpSample t="7894" lt="7894" ts="1465213573980" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61987" lt="61987" ts="1465213581874" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-390" dt="" by="70"/>
+</httpSample>
+<httpSample t="69524" lt="7545" ts="1465213574338" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-393" dt="" by="70">
+  <httpSample t="7545" lt="7545" ts="1465213574338" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61979" lt="61979" ts="1465213581883" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-393" dt="" by="70"/>
+</httpSample>
+<httpSample t="114573" lt="53179" ts="1465213529288" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-18" dt="" by="70">
+  <httpSample t="53179" lt="53179" ts="1465213529288" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61394" lt="61394" ts="1465213582467" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-18" dt="" by="70"/>
+</httpSample>
+<httpSample t="65800" lt="3860" ts="1465213578062" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-424" dt="" by="70">
+  <httpSample t="3860" lt="3860" ts="1465213578062" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61940" lt="61940" ts="1465213581922" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-424" dt="" by="70"/>
+</httpSample>
+<httpSample t="78054" lt="16036" ts="1465213565809" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-322" dt="" by="70">
+  <httpSample t="16036" lt="16036" ts="1465213565809" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62018" lt="62018" ts="1465213581845" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-322" dt="" by="70"/>
+</httpSample>
+<httpSample t="85141" lt="23129" ts="1465213558722" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-263" dt="" by="70">
+  <httpSample t="23129" lt="23129" ts="1465213558722" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62013" lt="62013" ts="1465213581850" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-263" dt="" by="70"/>
+</httpSample>
+<httpSample t="66882" lt="4919" ts="1465213576982" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-415" dt="" by="70">
+  <httpSample t="4919" lt="4919" ts="1465213576982" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61963" lt="61963" ts="1465213581901" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-415" dt="" by="70"/>
+</httpSample>
+<httpSample t="62191" lt="354" ts="1465213581673" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-454" dt="" by="70">
+  <httpSample t="354" lt="354" ts="1465213581673" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61836" lt="61836" ts="1465213582028" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-454" dt="" by="70"/>
+</httpSample>
+<httpSample t="114819" lt="53421" ts="1465213529046" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-16" dt="" by="70">
+  <httpSample t="53421" lt="53421" ts="1465213529046" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61399" lt="61399" ts="1465213582466" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-16" dt="" by="70"/>
+</httpSample>
+<httpSample t="79860" lt="17838" ts="1465213564006" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-307" dt="" by="70">
+  <httpSample t="17838" lt="17838" ts="1465213564006" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62023" lt="62023" ts="1465213581843" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-307" dt="" by="70"/>
+</httpSample>
+<httpSample t="114701" lt="53302" ts="1465213529165" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-17" dt="" by="70">
+  <httpSample t="53302" lt="53302" ts="1465213529165" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61400" lt="61400" ts="1465213582466" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-17" dt="" by="70"/>
+</httpSample>
+<httpSample t="71574" lt="9573" ts="1465213572293" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-376" dt="" by="70">
+  <httpSample t="9573" lt="9573" ts="1465213572293" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62001" lt="62001" ts="1465213581866" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-376" dt="" by="70"/>
+</httpSample>
+<httpSample t="61839" lt="404" ts="1465213582030" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-457" dt="" by="70">
+  <httpSample t="404" lt="404" ts="1465213582030" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61434" lt="61434" ts="1465213582435" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-457" dt="" by="70"/>
+</httpSample>
+<httpSample t="77581" lt="15551" ts="1465213566289" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-326" dt="" by="70">
+  <httpSample t="15551" lt="15551" ts="1465213566289" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="62031" lt="62031" ts="1465213581839" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-326" dt="" by="70"/>
+</httpSample>
+<httpSample t="62573" lt="588" ts="1465213582148" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-458" dt="" by="70">
+  <httpSample t="588" lt="588" ts="1465213582148" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61985" lt="61985" ts="1465213582736" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-458" dt="" by="70"/>
+</httpSample>
+<httpSample t="103569" lt="28011" ts="1465213553795" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-222" dt="text" by="48289">
+  <httpSample t="28011" lt="28011" ts="1465213553795" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="75557" lt="30741" ts="1465213581807" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-222" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="88071" lt="12522" ts="1465213569295" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-351" dt="text" by="48289">
+  <httpSample t="12522" lt="12522" ts="1465213569295" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="75547" lt="30505" ts="1465213581819" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-351" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="75927" lt="14173" ts="1465213581792" s="false" lb="Home" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-455" dt="" by="70">
+  <httpSample t="14173" lt="14173" ts="1465213581792" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="61755" lt="61755" ts="1465213595964" s="false" lb="https://handstandapp.com/" rc="408" rm="REQUEST_TIMEOUT" tn="Thread Group 1-455" dt="" by="70"/>
+</httpSample>
+<httpSample t="131729" lt="29678" ts="1465213551995" s="false" lb="Home" rc="Non HTTP response code: java.io.IOException" rm="Non HTTP response message: Premature EOF" tn="Thread Group 1-207" dt="text" by="2064">
+  <httpSample t="29678" lt="29678" ts="1465213551995" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="102051" lt="42123" ts="1465213581673" s="false" lb="Error: https://handstandapp.com/" rc="Non HTTP response code: java.io.IOException" rm="Non HTTP response message: Premature EOF" tn="Thread Group 1-207" dt="text" by="2064"/>
+</httpSample>
+<httpSample t="157168" lt="53310" ts="1465213528324" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="48289">
+  <httpSample t="53310" lt="53310" ts="1465213528324" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103832" lt="45765" ts="1465213581660" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="130616" lt="26895" ts="1465213554875" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-231" dt="text" by="48289">
+  <httpSample t="26895" lt="26895" ts="1465213554875" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103720" lt="53768" ts="1465213581771" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-231" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="134698" lt="30858" ts="1465213550794" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-197" dt="text" by="48289">
+  <httpSample t="30858" lt="30858" ts="1465213550794" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103826" lt="45504" ts="1465213581666" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-197" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="114878" lt="11188" ts="1465213570614" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-362" dt="text" by="48289">
+  <httpSample t="11188" lt="11188" ts="1465213570614" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103690" lt="53734" ts="1465213581802" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-362" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="133381" lt="29560" ts="1465213552112" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-208" dt="text" by="48289">
+  <httpSample t="29560" lt="29560" ts="1465213552112" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103821" lt="53866" ts="1465213581672" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-208" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="130981" lt="27216" ts="1465213554515" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-228" dt="text" by="48289">
+  <httpSample t="27216" lt="27216" ts="1465213554515" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103764" lt="53812" ts="1465213581732" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-228" dt="text" by="48867"/>
+</httpSample>
+<httpSample t="158017" lt="54151" ts="1465213527483" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="48289">
+  <httpSample t="54151" lt="54151" ts="1465213527483" s="true" lb="http://handstandapp.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="279"/>
+  <httpSample t="103826" lt="53874" ts="1465213581674" s="true" lb="https://handstandapp.com/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="48867"/>
+</httpSample>
+
+</testResults>
